@@ -10,7 +10,7 @@ Also component contains path manager class.
 Adapters should be configured as Zend application resource. Path manager can be configured there too
 
 Example for config file
-
+```
 production:
     resources:
         vfs:
@@ -35,3 +35,4 @@ production:
                         remotePort: 21
                         remoteUser: ftpuser
                         remotePassword: ftpuserpass
+```

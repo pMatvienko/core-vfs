@@ -28,7 +28,7 @@ production:
                         remotePort: 21
                         remoteUser: myuser
                         remotePassword: myuserpass
-                novadesign:
+                server2:
                     adapter: ftp
                     options:
                         remoteHost: local-ftp-server.int
